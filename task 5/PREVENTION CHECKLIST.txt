@@ -1,0 +1,14 @@
+'STAY SAFE ONLINE' PREVENTION CHECKLIST
+
+1. Never enter your UPI PIN to "receive" money. PINs are only for sending/paying.
+2. Verify the identity of anyone sending payment links or QR codes on WhatsApp.
+3. Use different, strong passwords for your banking apps and social media.
+4. Enable biometric or two-factor authentication (2FA) on all financial apps.
+5. Avoid using public Wi-Fi (like at cafes or stations) for bank transactions.
+6. Regularly monitor your bank statements for any unauthorized small deductions.
+7. Don't click on "urgent" links in SMS messages claiming your account is blocked.
+8. Report any fraud immediately to the National Cyber Crime Portal.
+
+REPORTING CHANNELS:
+- Website: cybercrime.gov.in
+- Helpline: 1930 (National Cyber Crime Helpline)

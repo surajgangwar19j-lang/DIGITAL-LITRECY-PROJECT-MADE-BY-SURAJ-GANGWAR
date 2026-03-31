@@ -1,0 +1,38 @@
+PROJECT REPORT
+
+TASK 1
+Project Report: Digital Literacy Awareness Infographic
+For this task, I used Canva to design a comprehensive one-page infographic tailored for my fellow students. My objective was to create a visual resource that simplifies complex digital concepts into actionable advice. While the assignment required covering at least three topics, I decided to include all five recommended areas—defining digital literacy, essential student tools, internet safety, maintaining a professional online presence, and mastering email etiquette—to provide a complete guide.
+
+Regarding the design, I utilized a "vertical flow" layout to guide the reader through each section. I selected a high-contrast, futuristic color palette to make the information visually engaging and modern. To ensure the resource was easily scannable, I paired each section with thematic icons and concise, bulleted text.
+
+The most interesting part of this process was distilling broad concepts like "digital literacy" and "online presence" into impactful, short sentences. The most difficult part was managing the space to ensure the design didn't feel cluttered. This exercise helped me realize that effective communication is as much about clarity and brevity as it is about the visual presentation.
+
+TASK 2
+Project Report: Student Digital Portfolio Setup
+
+To establish a professional digital presence, I selected GitHub, LinkedIn, and Kaggle as my three foundational platforms. Each serves a distinct purpose in my academic journey. GitHub acts as my technical repository for showcasing coding projects. LinkedIn serves as my professional network, documenting my educational milestones at VIT Bhopal University. I chose Kaggle to engage with the data science community and explore machine learning challenges.
+
+Over the next four years, I plan to use these platforms as a "living resume." I will update GitHub with my semester projects, share my academic achievements on LinkedIn, and use Kaggle to track my progress in data analysis. By maintaining these profiles regularly, I aim to create a cohesive digital footprint that demonstrates my growth and commitment to professional development in my field.	
+
+TASK 3
+Project Report: Coding and Collaboration Platforms
+To fulfill the requirements of Task 3, I explored both technical practice and cloud collaboration tools. For the coding component, I utilized CodeChef, a premier platform for competitive programming. I successfully completed the "Number Mirror" challenge, which served as a practical introduction to the platform's online judge system and input/output requirements. This exercise allowed me to familiarize myself with competitive coding environments and the process of submitting solutions for automated testing to ensure logic accuracy.
+
+For the collaboration component, I developed a "Digital Literacy Awareness Quiz" using Google Forms. This quiz includes exactly five targeted questions designed to evaluate a student's knowledge of online safety, professional networking, and general digital skills. I also linked this form to a Google Sheet to manage and analyze incoming responses effectively.
+
+Over the next four years, these tools will be essential. CodeChef provides a structured way to improve my problem-solving speed and algorithmic thinking, while Google Workspace tools allow for seamless group collaboration and data organization. Mastering these platforms builds a strong foundation for both technical proficiency and professional efficiency in my field.
+
+TASK 4
+PROJECT REPORT: DIGITAL COMMUNICATION AND ETIQUETTE
+
+Poor digital communication can lead to significant professional setbacks. A common scenario involves a student sending an overly casual email to a professor, failing to include a clear subject line or formal greeting. In a real-world situation, a student might miss a critical deadline because their informal request was buried in the professor's inbox or perceived as disrespectful and ignored. 
+
+To prevent this, the student should have used a descriptive subject line and a professional salutation. A clear structure and a polite tone ensure that the recipient understands the request immediately and feels inclined to help. Practicing professional etiquette in every digital interaction—whether via email or social media—is essential for building a reliable reputation. These tasks helped me refine my ability to communicate with authority figures and represent myself professionally across different digital platforms.
+
+TASK 5
+PROJECT REPORT: CYBERCRIME AWARENESS
+
+While researching UPI fraud, I was most surprised by how simple psychological manipulation is used to bypass advanced technical security. The fact that many people are tricked into entering their PIN to "receive" money shows that human error, not system failure, is often the weakest link. 
+
+As a result of this research, one habit I will personally change is the way I handle QR codes from unknown sources. I will now double-check the recipient's name in the UPI app before confirming any transaction and will strictly avoid scanning codes sent by strangers on marketplaces. Ensuring that I am a "skeptical user" is the best way to prevent falling victim to these evolving digital threats.

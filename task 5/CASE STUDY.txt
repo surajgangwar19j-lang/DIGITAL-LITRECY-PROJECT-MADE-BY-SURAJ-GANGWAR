@@ -1,0 +1,17 @@
+CASE STUDY
+CASE STUDY: UPI PAYMENT FRAUD (PHISHING/QR CODE SCAM)
+
+1. WHAT IS THE CRIME?
+UPI (Unified Payments Interface) fraud involves deceiving victims into sending money or granting access to their bank accounts through malicious links or QR codes.
+
+2. STEP-BY-STEP PROCESS:
+Step 1: The attacker lists a fake product on a secondary marketplace or sends a message claiming the victim has won a prize.
+Step 2: The attacker contacts the victim and sends a QR code via WhatsApp, claiming it is for "receiving" a payment.
+Step 3: The victim, unaware that entering a UPI PIN is only for sending money, scans the code and enters their PIN.
+Step 4: The transaction is instantly authorized, and funds are deducted from the victim's account and moved to a mule account.
+
+3. WHO IS TARGETED?
+College students and young adults are frequent targets because they use UPI daily for small transactions and often participate in online buying/selling.
+
+4. CONSEQUENCES:
+The primary consequence is immediate financial loss. Since UPI transactions are instantaneous and irreversible, recovering the funds is extremely difficult. Additionally, victims may suffer from emotional distress and a loss of trust in digital payment systems.
