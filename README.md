@@ -17,7 +17,7 @@ This repository contains the complete set of deliverables for the Digital Litera
 ## 🔗 Quick Links
 * **Google Form Quiz:** https://docs.google.com/forms/d/e/1FAIpQLSctZjt2IcKheT49MXckbiH8yGR1vUS9PMFtnLQEgiHPcdha9Q/viewform
 * **LinkedIn Profile:** https://www.linkedin.com/in/suraj-gangwar-18692237b/
-* **GitHub Profile:** https://github.com/surajgangwar192007
+* **GitHub Profile:** https://github.com/surajgangwar19j-lang
 * **Kaggle Profile:** https://www.kaggle.com/surajgangwar192007
 
 ## 🛠️ Tools Used
